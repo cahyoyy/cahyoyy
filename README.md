@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Cahyo**, a student and web developer who loves building simple and useful applications.  
+I'm **Cahya**, a student and web developer who loves building simple and useful applications.  
 Currently learning and working with modern web technologies — focused on building fullstack web apps.
 
 ---
