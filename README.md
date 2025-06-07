@@ -5,7 +5,7 @@ Currently learning and working with modern web technologies.
 
 ---
 
-### 🌟 Tech Stack (Rounded Style)
+### 🌟 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin:10px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.3);" />
