@@ -7,82 +7,51 @@ Currently learning and working with modern web technologies.
 
 ### 🎨 Tech Stack
 
-<div align="center" style="background: #1a1b26; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <!-- Row 1: Frontend -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #E44D26; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #1572B6; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #7952B3; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #38BDF8; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #F7DF1E; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #3178C6; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-  </div>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
-  <!-- Row 2: Frameworks -->
-  <div style="margin-bottom: 15px;">
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #61DAFB; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #339933; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #000000; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #47A248; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #4479A1; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-  </div>
+<p align="center">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
-  <!-- Row 3: Tools -->
-  <div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #F05032; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-    <div style="display: inline-block; margin: 8px;">
-      <div style="background: #F24E1E; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="filter: brightness(0) invert(1);" />
-      </div>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
 
