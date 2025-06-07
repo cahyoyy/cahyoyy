@@ -9,17 +9,6 @@ I enjoy turning ideas into real, useful products while continuously learning to 
 
 ## 🎨 Tech Stack
 
-### 📌 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" alt="Frontend Tech Stack" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Tech Stack" />
-</p>
-
-### 🛠️ Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,github,vscode,figma,postman" alt="Tech Stack" />
 </p>
