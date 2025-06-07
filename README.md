@@ -9,7 +9,7 @@ Currently learning and working with modern web technologies — focused on build
 
 ### 📌 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,py" alt="Frontend Tech Stack" />
 </p>
 
 ### ⚙️ Backend & Database
