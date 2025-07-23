@@ -10,5 +10,5 @@ I enjoy turning ideas into real, useful products while continuously learning to 
 ## 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,figma,postman,java,c#,shadcn" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,git,figma,postman,java,c#" alt="Tech Stack" />
 </p>
